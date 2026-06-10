@@ -5,8 +5,8 @@ This project investigates emotion recognition from EEG (Electroencephalography) 
 
 It includes exploratory data analysis (EDA), signal analysis, statistical feature evaluation, and a comparison of two neural network architectures:
 
-Feedforward Neural Network (FNN)
-Simple Recurrent Neural Network (RNN)
+- Feedforward Neural Network (FNN)
+- Simple Recurrent Neural Network (RNN)
 
 ### Dataset
 
